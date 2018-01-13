@@ -19,12 +19,13 @@
 
 body {
   font-family: "Apercu Mono Regular", 'Andale Mono', monospace;
-  font-size: 14px;
+  font-size: 18px;
 	position: relative;
 	color: black;
 	background-color: white;
 	height: 100%;
   -webkit-font-smoothing: antialiased;
+  background-color: #222;
 }
 
 p {
@@ -284,7 +285,7 @@ text-align: right;
 }
 
 .sub-pink {
-  color: #FD5AE8;
+  color: rgb(244, 66, 66);
 }
 
 .gmarker {

@@ -531,7 +531,8 @@ p.on {
 #gh-link,
 #wa-link,
 #tg-link,
-#skype-link {
+#skype-link,
+#location-link {
   display: none;
 }
 
